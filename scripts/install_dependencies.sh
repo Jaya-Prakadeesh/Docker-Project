@@ -8,4 +8,4 @@ unzip awscliv2.zip
 sudo ./aws/install
 
 
-aws s3 cp s3://awstask5-codebuild /app.jar /home/ubuntu/app.jar
+aws s3 cp s3://awstask5-codebuild/app.jar /home/ubuntu/app.jar
